@@ -7,7 +7,7 @@ This project is a web-based visualization tool that allows users to input text a
 - Detailed Character Count: A bar chart shows the count of each character within the selected category (consonants, vowels, or punctuation).
 
 ### Installation
-``git clone https://github.com/jslush95/js-visualization-word-counter.git``<br>
+``git clone https://github.com/JSlush95/vigilant-octo-tribble``<br>
 ### Usage
 Open the ``index.html`` file in your preferred browser.
 
