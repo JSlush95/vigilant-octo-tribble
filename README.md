@@ -1,4 +1,4 @@
-# Visualization - Word Counter
+# Word Counter - Enhanced
 This project is a web-based visualization tool that allows users to input text and see a graphical representation of the character distribution. It uses D3.js for generating interactive pie and bar charts and Bootstrap for styling.
 
 ## Features 
